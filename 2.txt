@@ -1,0 +1,5 @@
+rollno,name,m1,m2
+1,Rohit,85,45
+2,Pratik,65,34
+3,Judith,34,65
+4,sanika,65,56
